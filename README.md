@@ -33,14 +33,14 @@ llm-mistral-7b-instruct-texts<br>
 ->the data was then preprocessed (like removing stopwords,punctuation marks etc.) and vectorized for feeding into the model. <br>
 
 From here I have worked upon two different approaches as mentioned above.<br>
-### 1.
+### 1. Using NN ans LSTM
 ->The model is then constructed which includes several Conv layers, LSTM etc. and the parameters are set. Model is then Trained on the prepared dataset.<br>
 ->Then we load the testing dataset and process it to obtain predictions from model.<br>
 
 #### ----------------------> Accuracy with this method is obtained to be 0.89% <-----------------------------------<br>
 
 
-### 2.     
+### 2. Using RoBERTa Model
 Second approach includes the use of RoBERTa model for sequence classification.<br>
 RoBERTa-> or Robustly optimized BERT approach, is an advanced natural language processing (NLP) model. It is based on BERT but incorporates key modifications for enhanced performance. RoBERTa achieves state-of-the-art results in various NLP tasks by employing dynamic masking, larger batch sizes, and omitting the "Next Sentence Prediction" task during training. Its architecture, built upon transformers, captures rich contextual embeddings and has proven to be robust and effective in understanding and generating human-like text.
 <br>

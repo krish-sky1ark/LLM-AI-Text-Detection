@@ -50,6 +50,9 @@ RoBERTa-> or Robustly optimized BERT approach, is an advanced natural language p
 ->Test dataset is then processed to obtain predictions by feeding in model.<br>
 #### ----------------------> Accuracy with this method is obtained to be 0.78% <-----------------------------------<br>
 
-
+🚀 **Connect With Me:**
+- LinkedIn: [LinkedIn Profile]( https://www.linkedin.com/in/krish-khadria-034401271/)
+- Kaggle: [Kaggle Profile](https://www.kaggle.com/krishkhadria)
+- GitHub: [GitHub Profile](https://github.com/krish-sky1ark/LLM-AI-Text-Detection/tree/main)
 
 

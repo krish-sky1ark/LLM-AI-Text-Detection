@@ -1,4 +1,4 @@
-# LLM AI-TEXT DEETECTION USING LSTM AND NEURAL NETWORKS
+# LLM AI-TEXT DETECTION USING LSTM AND NEURAL NETWORKS
 
 Greetings to our AI-Generated Text Detection project! Within this repository, we unveil a powerful solution designed to identify AI-generated text using two methods-
 ### 1. (LSTM and Neural Networks) 

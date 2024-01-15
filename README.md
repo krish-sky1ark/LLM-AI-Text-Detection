@@ -18,6 +18,7 @@ The external data is taken from various different Datasets from Kaggle.<br>
 The final data was then concatenated with the given data and any duplicate entries were dropped.<br>
 
 ## Kaggle Datasets used include-
+Dataset: [Link_to_dataset] (https://www.kaggle.com/code/krishkhadria/datapreprocessingfortextclassification/input?scriptVersionId=159074164)
 4k Mixtral87b Crafted Essays for Detect AI Comp:<br>
 daigt-external-dataset:<br>
 daigt-data-llama-70b-and-falcon180b <br>

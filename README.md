@@ -37,7 +37,7 @@ From here I have worked upon two different approaches as mentioned above.<br>
 ->The model is then constructed which includes several Conv layers, LSTM etc. and the parameters are set. Model is then Trained on the prepared dataset.<br>
 ->Then we load the testing dataset and process it to obtain predictions from model.<br>
 
-#### ----------------------> Accuracy with this method is obtained to be 0.89% <-----------------------------------<br>
+#### ----------------------> Accuracy with this method is obtained to be 0.89% <-------------------------------<br>
 
 
 ### 2. Using RoBERTa Model
@@ -48,7 +48,7 @@ RoBERTa-> or Robustly optimized BERT approach, is an advanced natural language p
 ->the pretrained RoBERTa model is further trained on our dataset. <br>
 ->The major setback with this way is it has a high computation cost. the model takes really large amount of time to be trained and requires powerful GPU<br>
 ->Test dataset is then processed to obtain predictions by feeding in model.<br>
-#### ----------------------> Accuracy with this method is obtained to be 0.78% <-----------------------------------<br>
+#### ----------------------> Accuracy with this method is obtained to be 0.78% <-------------------------------<br>
 
 🚀 **Connect With Me:**
 - LinkedIn: [LinkedIn Profile]( https://www.linkedin.com/in/krish-khadria-034401271/)

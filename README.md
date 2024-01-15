@@ -1,8 +1,8 @@
 # LLM AI-TEXT DEETECTION USING LSTM AND NEURAL NETWORKS
 
 Greetings to our AI-Generated Text Detection project! Within this repository, we unveil a powerful solution designed to identify AI-generated text using two methods-
-# 1. (LSTM and Neural Networks) 
-# 2. RoBERTaForSequenceClassification model
+### 1. (LSTM and Neural Networks) 
+### 2. RoBERTaForSequenceClassification model
 
 # The Repository contains 3 notebooks.
 1. Dataset_preparation.ipynb

@@ -18,19 +18,19 @@ The external data is taken from various different Datasets from Kaggle.
 The final data was then concatenated with the given data and any duplicate entries were dropped.
 
 ## Kaggle Datasets used include-
-4k Mixtral87b Crafted Essays for Detect AI Comp
-daigt-external-dataset
-daigt-data-llama-70b-and-falcon180b
-daigt-proper-train-dataset
-daigt-gemini-pro-8-5k-essays
-daigt-v2-train-dataset
-daigt-misc
-hello-claude-1000-essays-from-anthropic
-LLM-generated essay using PaLM from Google Gen-AI
-llm-7-prompt-training-dataset
-llm-mistral-7b-instruct-texts
+4k Mixtral87b Crafted Essays for Detect AI Comp <br>
+daigt-external-dataset <br>
+daigt-data-llama-70b-and-falcon180b <br>
+daigt-proper-train-dataset <br>
+daigt-gemini-pro-8-5k-essays <br>
+daigt-v2-train-dataset <br>
+daigt-misc <br>
+hello-claude-1000-essays-from-anthropic<br>
+LLM-generated essay using PaLM from Google Gen-AI<br>
+llm-7-prompt-training-dataset<br>
+llm-mistral-7b-instruct-texts<br>
 
-->the data was then preprocessed (like removing stopwords,punctuation marks etc.) and vectorized for feeding into the model.
+->the data was then preprocessed (like removing stopwords,punctuation marks etc.) and vectorized for feeding into the model. <br>
 
 From here I have worked upon two different approaches as mentioned above.
 ### 1.

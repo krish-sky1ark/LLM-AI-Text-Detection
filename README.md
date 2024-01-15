@@ -18,7 +18,7 @@ The external data is taken from various different Datasets from Kaggle.<br>
 The final data was then concatenated with the given data and any duplicate entries were dropped.<br>
 
 ## Kaggle Datasets used include-
-4k Mixtral87b Crafted Essays for Detect AI Comp <br>
+4k Mixtral87b Crafted Essays for Detect AI Comp    https://www.kaggle.com/datasets/dardodel/4k-mixtral87b-crafted-essays-for-detect-ai-comp <br>
 daigt-external-dataset <br>
 daigt-data-llama-70b-and-falcon180b <br>
 daigt-proper-train-dataset <br>
